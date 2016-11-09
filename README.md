@@ -2,7 +2,15 @@
 
 Three teams were formed:
 
-* Team HDMS
-* Team Black Panther
-* Team Think Ninja
 
+![](img/TeamBlackPanther.JPG)
+
+* Team Black Panther
+
+![](img/TeamHDMS.JPG)
+
+* Team HDMS
+
+![](img/TeamThinkNinja.JPG)
+
+* Team Think Ninja
