@@ -15,7 +15,7 @@ Avinash Satpute - Scrum Master
 
 ![](img/TeamHDMS.JPG)
 
-* Team HDMS
+* Team HDMS (Meghavi Sugandhi, Shashank Rathore, Hemant Yadav, Deepak Chauhan)
 
 ![](img/TeamThinkNinja.JPG)
 
