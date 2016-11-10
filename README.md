@@ -15,7 +15,7 @@ Avinash Satpute - Scrum Master
 
 ![](img/TeamHDMS.JPG)
 
-* Team HDMS (Meghavi Sugandhi, Shashank Rathore, Hemant Yadav, Deepak Chauhan)
+* Team HDMS (Meghavi Sugandhi : Data Scientist, Shashank Rathore : Service Delivery Manager, Hemant Yadav : Data Engineer, Deepak Chauhan : Solution Architect)
 
 ![](img/TeamThinkNinja.JPG)
 
