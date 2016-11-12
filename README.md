@@ -20,3 +20,7 @@ Avinash Satpute - Scrum Master
 ![](img/TeamThinkNinja.JPG)
 
 * Team Think Ninja
+Husain Rangwala - Data Scientist
+Linga Dharavath - Data Analyst
+Aarti Bhagria - Data Manager
+Girdhari Pal - Solution Architect
